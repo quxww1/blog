@@ -15,7 +15,7 @@
 # about me
 #### 我叫屈向  
 
-<a href='https://github.com/quxww1/blog/issues/2'>查看更多</a>
+#### <a href='https://github.com/quxww1/blog/issues/2'>查看更多</a>
 
 # 联系我
 #### 邮箱：quxww1@gmail.com
