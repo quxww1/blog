@@ -4,13 +4,13 @@
 
 # 这是主页
 
-#### <a href='https://github.com/quxww1/blog/issues/3'>在vue中使用sass，并且使用全局sass变量</a>
+#### · <a href='https://github.com/quxww1/blog/issues/3'>在vue中使用sass，并且使用全局sass变量</a>
 
 
 
 
 # about me
-#### 我叫屈向 <a href='https://github.com/quxww1/blog/issues/2'>查看更多</a>
+#### 我叫屈向  <a href='https://github.com/quxww1/blog/issues/2'>查看更多</a>
 
 # 联系我
 #### 邮箱：quxww1@gmail.com
