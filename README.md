@@ -1,4 +1,4 @@
-# blog
+# Blog
 哒哒哒污污污唔~
 
 # 这是主页
@@ -14,7 +14,7 @@
 
 
 
-# about me
+# About
 #### 我叫屈向  
 
 #### <a href='https://github.com/quxww1/blog/issues/2'>查看更多</a>
