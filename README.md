@@ -3,6 +3,8 @@
 
 # 这是主页
 
+- #### <a href='https://github.com/quxww1/blog/issues/9'>JS数组方法总结</a>
+
 - #### <a href='https://github.com/quxww1/blog/issues/7'>空对象{}和Object.create(null)</a>
 
 - #### <a href='https://github.com/quxww1/blog/issues/6'>正则表达式简单总结</a>
