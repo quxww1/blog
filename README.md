@@ -3,6 +3,9 @@
 
 # 这是主页
 
+
+- #### <a href='https://github.com/quxww1/blog/issues/10'>CSS文本溢出显示省略号</a>
+
 - #### <a href='https://github.com/quxww1/blog/issues/9'>JS数组方法总结</a>
 
 - #### <a href='https://github.com/quxww1/blog/issues/7'>空对象{}和Object.create(null)</a>
