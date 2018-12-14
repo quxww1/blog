@@ -3,6 +3,8 @@
 
 # 这是主页
 
+- #### <a href='https://github.com/quxww1/blog/issues/11'>使用font-spider压缩字体文件</a>
+
 - #### <a href='https://github.com/quxww1/blog/issues/11'>Vue webpack 打包后-webkit-属性丢失解决办法</a>
 
 - #### <a href='https://github.com/quxww1/blog/issues/11'>Vue响应路由参数变化</a>
