@@ -3,6 +3,8 @@
 
 # 这是主页
 
+- #### <a href='https://github.com/quxww1/blog/issues/18'>js Object方法总结</a>
+
 - #### <a href='https://github.com/quxww1/blog/issues/13'>使用font-spider压缩字体文件</a>
 
 - #### <a href='https://github.com/quxww1/blog/issues/12'>Vue webpack 打包后-webkit-属性丢失解决办法</a>
