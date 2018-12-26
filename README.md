@@ -6,7 +6,7 @@
 
 - #### <a href='https://github.com/quxww1/blog/issues/21'>Vue封装全局axios公用函数</a>
 
-- #### <a href='https://github.com/quxww1/blog/issues/18'>js Object方法总结</a>
+- #### <a href='https://github.com/quxww1/blog/issues/18'>JS Object方法总结</a>
 
 - #### <a href='https://github.com/quxww1/blog/issues/13'>使用font-spider压缩字体文件</a>
 
