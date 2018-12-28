@@ -4,6 +4,8 @@
 # 这是主页
 
 
+- #### <a href='https://github.com/quxww1/blog/issues/23'>Vue中使用 CSS深度作用选择器</a>
+
 - #### <a href='https://github.com/quxww1/blog/issues/21'>Vue封装全局axios公用函数</a>
 
 - #### <a href='https://github.com/quxww1/blog/issues/18'>JS Object方法总结</a>
